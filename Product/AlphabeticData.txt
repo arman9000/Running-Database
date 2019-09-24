@@ -1,0 +1,15 @@
+ #        Time    Grade     Level               Name                  Meet Name   
+   1    16:34:32    9       Frosh/Soph       Aiden Larsen             Empire League Finals       
+   1    16:57:50    9       Frosh/Soph       Aiden Larsen             Orange Country Championships
+   2    20:37:20    10      Frosh/Soph       Andrew Eck               Orange Country Championships
+   3    No Time     11                       Andy Song                                           
+   4    15:23:23    12      V                Caden Ruiz               Orange Country Championships
+   5    15:07:70    12      V                Ethan Frisone            Pat Hadley Memorial        
+   6    18:39:50    11      V                Jacob Chen               Orange Country Championships
+   7    17:31:90    11      JV               Joey Park                Empire Leauge Finals       
+   8    18:29:33    12      JV               Justin Chen              Pat Hadley Memorial        
+   9    18:22:11    10      Frosh/Soph       Leangel Cendejas         Pat Hadley Memorial        
+   9    18:39:90    10      Frosh/Soph       Leangel Cendejas         Orange Country Championships
+   10   17:56:20    10      Frosh/Soph       Roman Tijerina           Orange Country Championships
+   11   15:34:73    12      V                Timo Dohm                Empire League Finals       
+   12   18:39:50    10      JV               Wyatt Llewellyn          Orange Country Championships
